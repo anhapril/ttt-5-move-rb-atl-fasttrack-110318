@@ -1,0 +1,8 @@
+Book1 = "cc"
+Book2 = "dd"
+Book3 = "ee"
+titles = ["cc", "dd", "ee"]
+3.times do
+puts (book)
+end
+print_titles(books)
